@@ -1,3 +1,5 @@
+# Hello, I'm David Malawey.
+
 Here, you’ll find a blend of educational content and hands-on projects designed to inspire and empower. My focus is on exploring and sharing ideas across disciplines, often with a relaxed approach. While some concepts may be covered superficially, my goal is to spark curiosity and promote collaboration.
 
 What You’ll Discover:
