@@ -4,8 +4,6 @@
 
 Here, you’ll find a blend of educational content and hands-on projects designed to inspire and empower. My focus is on exploring and sharing ideas across disciplines, often with a relaxed approach. While some concepts may be covered superficially, my goal is to spark curiosity and promote collaboration.
 
-## What You’ll Discover:
-
 - [YouTube Channel](https://www.youtube.com/@davidmalawey): Watch videos that break down complex concepts into simple, actionable ideas. From robotics to 3D design, my channel is a space for learning and exploration. It’s not flashy, but it’s all about substance over style. Subscribe to stay updated!
 - Open-Source Designs: Explore my 3D models on [GrabCAD](https://grabcad.com/david.m-50), crafted to be versatile and adaptable for various applications.
 - [SCUTTLE Robot Project](http://scuttlerobot.org): Dive into this open-source robotics platform, designed for innovation across countless uses. Learn more through the dedicated link below.
@@ -15,7 +13,7 @@ Here, you’ll find a blend of educational content and hands-on projects designe
 
 I’m working on a range of open-source projects designed to innovate and inspire, including [OpenArm](https://bit.ly/openarm), [OpenJar](https://bit.ly/openjarproject_v1) , [OpenBox](https://bit.ly/openboxproject), [OpenSpin](https:/bit.ly/openspinproject), [OpenAir](https://bit.ly/openairproject) , and [OpenLab](https://bit.ly/openlabproject). Each project reflects my commitment to creativity, accessibility, and practical solutions for diverse needs.
 
-# Core Values:
+# Core Values
 
 - Share Freely: Found value in my content? Feel free to copy, adapt, and share it to spread good ideas.
 - Accessibility: I believe in making knowledge and tools open to everyone.
