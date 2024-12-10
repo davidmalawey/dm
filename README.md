@@ -1,6 +1,6 @@
 # Hello, I'm David Malawey.
 
-![David Malawey](https://media.licdn.com/dms/image/v2/D5603AQEqztNk8-I8iQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699384920784?e=2147483647&v=beta&t=gLdt6ajKNHb0KHSTtCU7JGQTY8qvX9J0ao7R7IVU1ck :class=image-border-rounded')
+![David Malawey](https://media.licdn.com/dms/image/v2/D5603AQEqztNk8-I8iQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699384920784?e=2147483647&v=beta&t=gLdt6ajKNHb0KHSTtCU7JGQTY8qvX9J0ao7R7IVU1ck ':class=image-border-rounded')
 
 Here, you’ll find a blend of educational content and hands-on projects designed to inspire and empower. My focus is on exploring and sharing ideas across disciplines, often with a relaxed approach. While some concepts may be covered superficially, my goal is to spark curiosity and promote collaboration.
 
@@ -13,7 +13,7 @@ Here, you’ll find a blend of educational content and hands-on projects designe
 
 # Open Projects
 
-I’m working on a range of open-source projects designed to innovate and inspire, including [OpenArm](https://bit.ly/openarm), OpenJar](https://bit.ly/openjarproject_v1) , [OpenBox](https://bit.ly/openboxproject), [OpenSpin](https:/bit.ly/openspinproject), [OpenAir](https://bit.ly/openairproject) , and [OpenLab](https://bit.ly/openlabproject). Each project reflects my commitment to creativity, accessibility, and practical solutions for diverse needs.
+I’m working on a range of open-source projects designed to innovate and inspire, including [OpenArm](https://bit.ly/openarm), [OpenJar](https://bit.ly/openjarproject_v1) , [OpenBox](https://bit.ly/openboxproject), [OpenSpin](https:/bit.ly/openspinproject), [OpenAir](https://bit.ly/openairproject) , and [OpenLab](https://bit.ly/openlabproject). Each project reflects my commitment to creativity, accessibility, and practical solutions for diverse needs.
 
 # Core Values:
 
