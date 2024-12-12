@@ -27,3 +27,9 @@ Each project reflects my commitment to creativity, accessibility, and practical 
 - Collaboration: Together, we can push the boundaries of design and innovation.
 
 Ready to explore, learn, and create? Let’s get started.
+
+# Free services
+
+These two free services I'm putting in writing because I may not be available to advertise them.  Easy for me, and bigger impact than I can perform alone.
+1) Organ donor - if I pass, please prioritize a recipient for my components to be a person who's helping with free & open designs.
+2) Expert Witness - If my content covers an engineering topic relevant to your case, and you require a professional to simplify complex concepts and provide clear, accurate truth during litigation, feel free to reach out.
