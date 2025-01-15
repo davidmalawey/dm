@@ -12,13 +12,23 @@ Here, you’ll find a blend of educational content and hands-on projects designe
 # Open Projects
 
 I’m working on a range of open-source projects designed to innovate and inspire, including the following:
-* [OpenArm](https://bit.ly/openarm) robot arm design
-* [OpenJar](https://bit.ly/openjarproject_v1) container mods
-* [OpenBox](https://bit.ly/openboxproject) versatile designs
-* [OpenSpin](https:/bit.ly/openspinproject) rotating devices
-* [OpenAir](https://bit.ly/openairproject) pneumatics & airflow
-* [OpenLab](https://bit.ly/openlabproject) laboratory architecting
+* [OpenAir](https://qr.net/openairproject) ► pneumatics designs
+* [OpenArm](https://qr.net/openarmproject) ► robotic arm (long term) design
+* [OpenBox](https://qr.net/openboxproject) ► modular designs from steel boxes
+* [OpenGrow](https://qr.net/opengrowproject) ► hydroponics & aquaponics designs
+* [OpenJar](https://qr.net/openjarproject) ► modular designs based on mason jars
+* [OpenLab](https://qr.net/openlabproject) ► designs for multidisciplinary engineering labs
+* [OpenME](https://qr.net/openmeproject) ► a full archive of mechanical engineering bachelors degree
+* [OpenSpin](https://qr.net/openspinproject) ► modular designs for bearings & rotary functions
+
 Each project reflects my commitment to creativity, accessibility, and practical solutions for multidisciplinary needs.  Don't forget to use the search function in the navigation bar (left hand) of these project pages to find what you need!  All the contributors and I are trying hard to comment with relevant keywords at each section as we get these pages populated!
+
+# Robotics development
+
+SCUTTLE Robotics is the organization I founded (including businesses: LLC & PLT, and including open-source community aspects.)  SCUTTLE is my largest project, but it shares elements with all of the other projects (mechanical, electrical, software designs).  The SCUTTLE robot is a mobile robot for 1) teaching university students, 2) performing robotics research, and 3) development of industrial solutions, even forming businesses beginning with the SCUTTLE platform.  To describe it, we have sometimes called it "a Raspberry Pi on Wheels" because the outcomes and audiences span so widely, just like Raspberry Pi.
+
+* [SCUTTLE website](https://www.scuttlerobot.org)
+* [SCUTTLE discord](https://discord.gg/yw3ypxbZ5X)
 
 # Core Values
 
@@ -28,8 +38,3 @@ Each project reflects my commitment to creativity, accessibility, and practical 
 
 Ready to explore, learn, and create? Let’s get started.
 
-# Free services
-
-These two free services I'm putting in writing because I may not be available to advertise them.  Easy for me, and bigger impact than I can perform alone.
-1) Organ donor - if I pass, please prioritize a recipient for my components to be a person who's helping with free & open designs.
-2) Expert Witness - If my content covers an engineering topic relevant to your case, and you require a professional to simplify complex concepts and provide clear, accurate truth during litigation, feel free to reach out.
